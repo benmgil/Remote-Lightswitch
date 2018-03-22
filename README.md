@@ -10,7 +10,7 @@ The circuit looks as follows:
 
 ![Circuit](https://github.com/benmgil/Remote-Lightswitch/blob/master/circuit.png)
 
-#Upload the code
+## Upload the code
 You will need to replace the values of the infrared signals in the code to the ones that your remote sends. Every remote is different. To find out what values your remote is sending, open the Serial Monitor in the Arduino IDE. I had the code print the values that it was receiving.
 
 ## Mount the circuit
