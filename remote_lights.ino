@@ -33,8 +33,6 @@ void setup() {
 }
 
 void loop() {
-  topButton = digitalRead(2);
-  bottomButton = digitalRead(3);
 
   if (irrecv.decode(&results)){
      Serial.println(results.value);
