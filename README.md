@@ -17,4 +17,4 @@ You will need to replace the values of the infrared signals in the code to the o
 You will need to mount this to your light switch in order for the motors to be able to press it. I found an old aluminum box and put the entire circuit inside that, and cut holes for the servod to poke through. You can see it below:
 
 ![Mount](https://github.com/benmgil/Remote-Lightswitch/blob/master/lightswitch.jpg)
-I had to take the circuit out of the breadboard in order for it to fit inside the box.
+I had to take the circuit out of the breadboard in order for it to fit inside the box, but that's just because I wanted it to be smaller. You can put it together yourself however you want.
