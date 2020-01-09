@@ -1,4 +1,4 @@
-# Arduino-Mac-Script-Runner
+# Arduino Remote Lights
 
 
 ## About
